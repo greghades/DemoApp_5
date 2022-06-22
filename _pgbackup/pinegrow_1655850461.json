@@ -1,0 +1,70 @@
+{
+  "files": {
+    "restaurant.html": {
+      "frameworks": [
+        "demo_app2",
+        "pg.bs5.lib",
+        "pg.asset.manager",
+        "pg.project.items",
+        "pg.code-validator",
+        "pg.svg.lib",
+        "pg.image.overlay",
+        "pg.insight.events",
+        "pg.css.grid",
+        "pg.fontawesome.5",
+        "bs5",
+        "pg.html",
+        "pg.components"
+      ],
+      "last_page_width": 865
+    }
+  },
+  "breakpoints": [
+    "36rem",
+    "40.5625rem",
+    "48rem",
+    "62rem",
+    "64rem",
+    "75rem",
+    "84.375rem",
+    "87.5rem",
+    "90rem",
+    "93.75rem",
+    "100rem",
+    "103.125rem",
+    "106.25rem",
+    "480px",
+    "576px",
+    "768px",
+    "992px",
+    "1200px",
+    "1400px",
+    "1600px"
+  ],
+  "frameworks": [
+    "demo_app2",
+    "pg.bs5.lib",
+    "pg.asset.manager",
+    "pg.project.items",
+    "pg.code-validator",
+    "pg.svg.lib",
+    "pg.image.overlay",
+    "pg.insight.events",
+    "pg.css.grid",
+    "pg.fontawesome.5",
+    "bs5",
+    "pg.html",
+    "pg.components"
+  ],
+  "urls": {
+    "restaurant.html": {
+      "open-page-views": [
+        {
+          "w": 865,
+          "h": 0
+        }
+      ]
+    }
+  },
+  "active-design-provider": "bs5"
+}
